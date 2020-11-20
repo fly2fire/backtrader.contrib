@@ -38,7 +38,6 @@ from . import signals as signals
 from . import sizers as sizers
 from . import stores as stores
 from . import strategies as strategies
-from . import studies as studies
 
 
 # Replace itself with backtrader
